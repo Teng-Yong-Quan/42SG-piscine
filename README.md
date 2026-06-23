@@ -11,8 +11,8 @@ For the WSL Ubuntu terminal, the following tools may be useful during the 42 Pis
 * **Visual Studio Code**
   Provides syntax highlighting, useful extensions, and convenient Git integration.
   Some useful extensions:
-	`42 ft count line` by DoKca
-	`42 Header` by kube
+	* `42 ft count line` by DoKca
+	* `42 Header` by kube
 
 * **Valgrind**
   Detects memory leaks and other memory-related issues, such as unfreed dynamically allocated memory.
