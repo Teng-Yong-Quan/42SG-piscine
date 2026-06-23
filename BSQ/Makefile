@@ -1,0 +1,40 @@
+# ─── Project Settings ────────────────────────────────────────────────────────
+
+NAME    = bsq
+CC      = cc
+CFLAGS  = -Wall -Wextra -Werror
+
+# ─── Source Files ─────────────────────────────────────────────────────────────
+
+SRCS    =   main.c \
+            read_files.c \
+            map_info_checks.c \
+            grid_map_checks.c \
+            bsq_solve.c \
+            solve_helper.c
+
+# ─── Object Files ─────────────────────────────────────────────────────────────
+
+OBJS    = $(SRCS:.c=.o)
+
+# ─── Rules ────────────────────────────────────────────────────────────────────
+
+all: $(NAME)
+
+$(NAME): $(OBJS)
+	$(CC) $(CFLAGS) -o $(NAME) $(OBJS)
+
+%.o: %.c
+	$(CC) $(CFLAGS) -c $< -o $@
+
+clean:
+	rm -f $(OBJS)
+
+fclean: clean
+	rm -f $(NAME)
+
+re: fclean all
+
+# ─── Phony ────────────────────────────────────────────────────────────────────
+
+.PHONY: all clean fclean re
