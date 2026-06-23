@@ -1,8 +1,8 @@
 # 42SG-piscine
 
-Here are the answers to the respective questions.
+Here are the answers to the respective exercises.
 
-Please take them with a pinch of salt, as they may not be entirely correct. Do note that not all questions have been attempted.
+Please take them with a pinch of salt, as they may not be entirely correct. Do note that not all exercises have been attempted.
 
 For the WSL Ubuntu terminal, the following tools may be useful during the 42 Piscine:
 
