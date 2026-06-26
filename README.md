@@ -11,6 +11,7 @@ For the WSL Ubuntu terminal, the following tools may be useful during the 42 Pis
   * Some useful extensions:
 	  * `42 ft count line` by DoKca
 	  * `42 Header` by kube
+    * `42 Norminette Highlighter` by Marius van Wijk - Joppe Koers
 
 * **Valgrind**
   * Detects memory leaks and other memory-related issues, such as unfreed dynamically allocated memory.
