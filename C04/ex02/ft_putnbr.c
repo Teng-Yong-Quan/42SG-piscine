@@ -6,7 +6,7 @@
 /*   By: yteng <yteng@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/05/28 15:27:35 by yteng             #+#    #+#             */
-/*   Updated: 2026/06/26 16:57:19 by yteng            ###   ########.fr       */
+/*   Updated: 2026/06/26 17:01:03 by yteng            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,12 +19,14 @@ void	ft_putchar(char c)
 
 long	ft_convert_to_pos(int num)
 {
-	num = (long)num;
-	if (num < 0)
+	long	n;
+
+	n = num;
+	if (n < 0)
 	{
-		num = -num;
+		n = -n;
 	}
-	return (num);
+	return (n);
 }
 
 void	ft_printdash(int num)
