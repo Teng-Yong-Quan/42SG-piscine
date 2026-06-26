@@ -6,7 +6,7 @@
 /*   By: yteng <yteng@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/05/28 15:27:35 by yteng             #+#    #+#             */
-/*   Updated: 2026/06/09 15:09:12 by yteng            ###   ########.fr       */
+/*   Updated: 2026/06/26 16:57:19 by yteng            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,8 +17,9 @@ void	ft_putchar(char c)
 	write(1, &c, 1);
 }
 
-int	ft_convert_to_pos(int num)
+long	ft_convert_to_pos(int num)
 {
+	num = (long)num;
 	if (num < 0)
 	{
 		num = -num;
@@ -36,13 +37,13 @@ void	ft_printdash(int num)
 
 void	ft_putnbr(int nb)
 {
-	int		print_num;
+	long	print_num;
 	long	divisor;
 
 	ft_printdash(nb);
 	print_num = nb;
 	divisor = 1;
-	while (!(-9 <= nb / divisor && nb / divisor <= 9))
+	while (!(-9 <= print_num / divisor && print_num / divisor <= 9))
 	{
 		divisor *= 10;
 	}
