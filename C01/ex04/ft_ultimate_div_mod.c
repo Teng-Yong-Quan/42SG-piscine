@@ -6,12 +6,12 @@
 /*   By: yteng <yteng@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/05/29 12:33:43 by yteng             #+#    #+#             */
-/*   Updated: 2026/06/26 14:37:14 by yteng            ###   ########.fr       */
+/*   Updated: 2026/06/26 15:11:32 by yteng            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <stdio.h>
-*/
+
 void	ft_ultimate_div_mod(int *a, int *b)
 {
 	int	temp_a;

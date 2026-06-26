@@ -6,12 +6,12 @@
 /*   By: yteng <yteng@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/05/29 12:21:06 by yteng             #+#    #+#             */
-/*   Updated: 2026/06/26 14:37:08 by yteng            ###   ########.fr       */
+/*   Updated: 2026/06/26 15:11:28 by yteng            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <stdio.h>
-*/
+
 void	ft_div_mod(int a, int b, int *div, int *mod)
 {
 	*div = a / b;
