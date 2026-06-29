@@ -1,5 +1,7 @@
 # 42SG-piscine
 
+9th 42 Singapore Piscine Batch from 25 May 2026 to 19 June 2026.
+
 Here are the answers to the respective exercises.
 
 Please take them with a pinch of salt, as they may not be entirely correct. Do note that not all exercises have been attempted.
