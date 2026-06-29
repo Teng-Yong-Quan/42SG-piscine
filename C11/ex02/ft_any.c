@@ -6,11 +6,11 @@
 /*   By: yteng <yteng@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/06/29 15:39:28 by yteng             #+#    #+#             */
-/*   Updated: 2026/06/29 15:44:47 by yteng            ###   ########.fr       */
+/*   Updated: 2026/06/29 20:41:28 by yteng            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-int	ft_any(char **tab, int(*f)(char*))
+int	ft_any(char **tab, int (*f)(char*))
 {
 	while (*tab)
 	{

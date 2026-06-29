@@ -6,13 +6,13 @@
 /*   By: yteng <yteng@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/06/29 15:18:58 by yteng             #+#    #+#             */
-/*   Updated: 2026/06/29 15:37:41 by yteng            ###   ########.fr       */
+/*   Updated: 2026/06/29 20:41:33 by yteng            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <stdlib.h>
 
-int	*ft_map(int *tab, int length, int(*f)(int))
+int	*ft_map(int *tab, int length, int (*f)(int))
 {
 	int	index;
 	int	*new_tab;

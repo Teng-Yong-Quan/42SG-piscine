@@ -6,11 +6,11 @@
 /*   By: yteng <yteng@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/06/29 14:52:13 by yteng             #+#    #+#             */
-/*   Updated: 2026/06/29 15:17:22 by yteng            ###   ########.fr       */
+/*   Updated: 2026/06/29 20:41:38 by yteng            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-void	ft_foreach(int *tab, int length, void(*f)(int))
+void	ft_foreach(int *tab, int length, void (*f)(int))
 {
 	int	index;
 

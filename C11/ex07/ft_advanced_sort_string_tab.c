@@ -6,7 +6,7 @@
 /*   By: yteng <yteng@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/06/29 19:39:38 by yteng             #+#    #+#             */
-/*   Updated: 2026/06/29 20:36:14 by yteng            ###   ########.fr       */
+/*   Updated: 2026/06/29 20:40:55 by yteng            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -29,7 +29,7 @@ int	ft_string_tab_len(char **tab)
 	return (index);
 }
 
-void	ft_sort_string_tab(char **tab, int(*cmp)(char *, char *))
+void	ft_sort_string_tab(char **tab, int (*cmp)(char *, char *))
 {
 	int	len;
 	int	i;
