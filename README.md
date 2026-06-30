@@ -28,10 +28,16 @@ Please take them with a pinch of salt, as they may not be entirely correct. Do n
 | Rush01| 100%|
 | Rush02| NA |
 | BSQ | 100% |
-| Exam00 <br> 10 points per level. | 80% |
-| Exam01 <br> 10 points per level. | 100% |
-| Exam02 <br> 10 points per level. | 90% |
-| Final Exam <br> First 15 levels: 6 points each. <br> Final level: 10 points. | 90% |
+| Exam00 | 80% |
+| Exam01 | 100% |
+| Exam02 | 90% |
+| Final Exam | 90% |
+
+* **Scoring systems for Exams:**
+  * Exam00: 10 points per level
+  * Exam01: 10 points per level
+  * Exam02: 10 points per level
+  * Final Exam: First 15 levels: 6 points each. Final level: 10 points.
 
 For the WSL Ubuntu terminal, the following tools may be useful during the 42 Piscine:
 
