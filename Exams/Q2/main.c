@@ -6,15 +6,9 @@
 /*   By: yteng <yteng@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/06/30 12:34:25 by yteng             #+#    #+#             */
-/*   Updated: 2026/06/30 14:19:27 by yteng            ###   ########.fr       */
+/*   Updated: 2026/06/30 19:55:42 by yteng            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
-/* Write a program that takes in a string argument.
-The string is split into words, which are delimited by tab, space and newline.
-Output the words in ascending length and for words with the same length output
-them in ascending ASCII Order followed by a newline. If the number of string
-argument is not 1, print a newline instead.*/
 
 #include "functions.h"
 

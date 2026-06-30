@@ -1,0 +1,11 @@
+Write a program that accepts exactly one string as a command-line argument.
+Split the input string into words, where words are separated by spaces (' '), tabs ('\t'), or newlines ('\n').
+Print the words sorted according to the following rules:
+1. Sort by ascending word length.
+2. If two or more words have the same length, sort them in ascending ASCII (lexicographical) order. 
+	Print the sorted words separated by ", " (a comma followed by a space), and end the output with a newline.
+If the program does not receive exactly one string argument, print only a newline.
+
+Final Exam: Level 14/15
+
+Hint: This problem can be solved by reusing and modifying solutions from previous lower-level questions.
