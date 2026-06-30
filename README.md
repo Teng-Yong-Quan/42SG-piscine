@@ -18,15 +18,15 @@ Please take them with a pinch of salt, as they may not be entirely correct. Do n
 | C05 | 100%|
 | C06 | 50% |
 | C07 | 0% |
-| C08 | &#10005; |
-| C09 | NA |
-| C10 | NA |
-| C11 | NA |
-| C12 | NA |
-| C13 | NA |
+| C08 | :x: |
+| C09 | :x: |
+| C10 | :x: |
+| C11 | :x: |
+| C12 | :x: |
+| C13 | :x: |
 | Rush00| 0%|
 | Rush01| 100%|
-| Rush02| NA |
+| Rush02| :x: |
 | BSQ | 100% |
 | Exam00 | 80% |
 | Exam01 | 100% |
