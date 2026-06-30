@@ -17,7 +17,7 @@ Please take them with a pinch of salt, as they may not be entirely correct. Do n
 | C04 | 100%|
 | C05 | 100%|
 | C06 | 50% |
-| C07 | 50% |
+| C07 | 0% |
 | C08 | NA |
 | C09 | NA |
 | C10 | NA |
