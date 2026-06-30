@@ -37,7 +37,9 @@ Please take them with a pinch of salt, as they may not be entirely correct. Do n
   * Exam00: 10 points per level
   * Exam01: 10 points per level
   * Exam02: 10 points per level
-  * Final Exam: First 15 levels: 6 points each. Final level: 10 points.
+  * Final Exam: 
+	  * First 15 levels: 6 points each.
+	  * Final level: 10 points.
 
 For the WSL Ubuntu terminal, the following tools may be useful during the 42 Piscine:
 
