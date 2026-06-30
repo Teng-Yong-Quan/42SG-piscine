@@ -18,7 +18,7 @@ Please take them with a pinch of salt, as they may not be entirely correct. Do n
 | C05 | 100%|
 | C06 | 50% |
 | C07 | 0% |
-| C08 | NA |
+| C08 | &#10005; |
 | C09 | NA |
 | C10 | NA |
 | C11 | NA |
