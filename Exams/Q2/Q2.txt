@@ -6,6 +6,6 @@ Print the words sorted according to the following rules:
 	Print the sorted words separated by ", " (a comma followed by a space), and end the output with a newline.
 If the program does not receive exactly one string argument, print only a newline.
 
-Final Exam: Level 14
+Final Exam: Level 13
 
 Hint: This problem can be solved by reusing and modifying solutions from previous lower-level questions.
