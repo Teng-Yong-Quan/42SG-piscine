@@ -1,0 +1,9 @@
+Write a function that takes two string arguments representing potentially infinitely long integers.
+Return the product of the two integers as a newly allocated string.
+
+The input strings are guaranteed to be valid and may optionally begin with a leading minus sign ('-').
+
+Prototype required:
+char	*infinite_multiplication(char *s1, char *s2);
+
+Final Exam: Level 16
