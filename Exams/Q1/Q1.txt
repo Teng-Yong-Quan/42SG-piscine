@@ -1,0 +1,8 @@
+Write a function 'sort_list' that takes in a node pointer and
+another function to sort the nodes respectively. 
+Helper functions are allowed.
+
+Prototype required:
+t_list	*sort_list(t_list *lst, int (*cmp)(int, int))
+
+Final Exam: Level 12

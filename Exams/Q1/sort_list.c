@@ -6,13 +6,9 @@
 /*   By: yteng <yteng@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/06/30 11:39:22 by yteng             #+#    #+#             */
-/*   Updated: 2026/06/30 12:01:24 by yteng            ###   ########.fr       */
+/*   Updated: 2026/06/30 19:55:05 by yteng            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
-/* Write a function 'sort_list' that takes in a node pointer and
- another function to sort the nodes respectively. 
- Helper functions are allowed. */
 
 #include "sort_list.h"
 
