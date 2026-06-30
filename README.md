@@ -6,6 +6,33 @@ Here are the answers to the respective exercises.
 
 Please take them with a pinch of salt, as they may not be entirely correct. Do note that not all exercises have been attempted.
 
+|    Task    | Final Grade |
+| :--------: | :---------: |
+| Shell00 | 50% |
+| Shell01 | 50% |
+| C00 | 100% |
+| C01 | 100% |
+| C02 | 85% |
+| C03 | 100%|
+| C04 | 100%|
+| C05 | 100%|
+| C06 | 50% |
+| C07 | 50% |
+| C08 | NA |
+| C09 | NA |
+| C10 | NA |
+| C11 | NA |
+| C12 | NA |
+| C13 | NA |
+| Rush00| 0%|
+| Rush01| 100%|
+| Rush02| NA |
+| BSQ | 100% |
+| Exam00 | 80% |
+| Exam01 | 100% |
+| Exam02 | 90% |
+| Final Exam | 90% |
+
 For the WSL Ubuntu terminal, the following tools may be useful during the 42 Piscine:
 
 * **Visual Studio Code**
