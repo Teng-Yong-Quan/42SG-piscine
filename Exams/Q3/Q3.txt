@@ -6,4 +6,4 @@ The input strings are guaranteed to be valid and may optionally begin with a lea
 Prototype required:
 char	*infinite_multiplication(char *s1, char *s2);
 
-Final Exam: Level 16
+Final Exam: Level 15
