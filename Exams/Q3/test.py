@@ -13,13 +13,13 @@ for _ in range(10000):
 
     if expected != actual:
         print("Mismatch!")
-        print(a)
+        print(f"a: {a}")
         print('\n')
-        print(b)
+        print(f"b: {b}")
         print('\n')
-        print(expected)
+        print(f"expected: {expected}")
         print('\n')
-        print(actual)
+        print(f"actual: {actual}")
         print('\n')
         break
 else:
